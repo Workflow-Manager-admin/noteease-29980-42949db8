@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from "react";
-import { AbsoluteFill, Sequence } from "remotion";
+import { AbsoluteFill } from "remotion";
 import { COLORS, CATEGORIES, FONT_FAMILY } from "./constants";
 import { SearchBar } from "./SearchBar";
 import { CategoryFilters } from "./CategoryFilters";

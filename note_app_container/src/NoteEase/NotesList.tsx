@@ -1,5 +1,5 @@
 import React from "react";
-import { COLORS, FONT_FAMILY, CATEGORIES } from "./constants";
+import { COLORS, CATEGORIES } from "./constants";
 import { Note } from "./NoteEase";
 
 interface NotesListProps {
